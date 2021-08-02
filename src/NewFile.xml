@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+	<S:Body>
+		<ns3:NipSingleDirectCreditFundsTransfer
+			xmlns:ns2="http://www.unionbank.com.ng/utilities/Header/v1_0/UBNHeader"
+			xmlns:ns3="http://webservice.outflow.nip.unionbank.com/">
+			<data>
+				<accountName>ARIKEUYO</accountName>
+				<accountNumber>0004498938</accountNumber>
+				<amount>569.45</amount>
+				<bankVerificationNumber></bankVerificationNumber>
+				<channelCode>1</channelCode>
+				<destinationBankCode>999058</destinationBankCode>
+				<kycLevel>1</kycLevel>
+				<moduleCredentials>CsX7SNFkkSdLGG3ipTANq8Pn34j1wXvWX0qE1pHu7a/vO1iooqUIksLvwZEVrFDxeMEmssf2u5GHunm/vCHwNLI70ZxIidhJ
+				</moduleCredentials>
+				<nameEnquirySessionId>999032170208125747000000000011
+				</nameEnquirySessionId>
+				<narration>MOBILE/fundtransotherbank:160680117/RIA:0004498938/ARIKEUYO
+				</narration>
+				<originatorAccountNumber>160680117</originatorAccountNumber>
+				<originatorKycLevel>1</originatorKycLevel>
+				<originatorName>RIA</originatorName>
+				<paymentReference>9222395047455177777</paymentReference>
+				<requestModule>PAYGATE</requestModule>
+				<sessionId>999032170208125840000000000112</sessionId>
+			</data>
+			<messageHash></messageHash>
+		</ns3:NipSingleDirectCreditFundsTransfer>
+	</S:Body>
+</S:Envelope>

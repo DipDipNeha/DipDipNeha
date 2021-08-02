@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UBN_CREDENTIAL>
+
+	<!-- <ServiceUserName>16ucKuYMjxG7gVU5B4wn/A==</ServiceUserName>
+	<ServicePassword>16ucKuYMjxHpudTfcGULpw==</ServicePassword> -->
+	
+	<!--  <ServiceUserName>D06NbpvKQfi7gVU5B4wn/A==</ServiceUserName>
+	<ServicePassword>jdrO9XFS6cMXsG4M0RYRjg==</ServicePassword> -->
+	
+	<ServiceUserName>EWEru+hyecA=</ServiceUserName>
+	<ServicePassword>iR2Yb8XTGIuOlDzy+BD4Jg==</ServicePassword>
+	
+	<ModuleCredential>XxB12N+8GtdnksXOOJJseprLBSc5QKSSVRHKnCVcdH4/KRV8euM+LQvoV72Vzedx7SvMhdnfpYklcYpuE2AJOMWixU+E6iZylrHk4TBc57NJU1PZtdi1GD/zznBE1oTegJxSrxwnXmxQsGLnn0LItg==</ModuleCredential>
+	<DatabaseType>TOMCATCP</DatabaseType>
+</UBN_CREDENTIAL>
